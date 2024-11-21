@@ -1,0 +1,2 @@
+                                              DT-Deep Thought
+         The Deep Thought site is a responsive website that works well on any device. It includes a "Namburger" feature that works perfectly and allow side bar to close and open fluently. The site fetches data from a JSON file, so the content is always fresh and easy to update.
